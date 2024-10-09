@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harris Khan</h1>
 <h3 align="center">A Full Stack Developer with a strong focus on leadership, expertise in the Software Development Life Cycle (SDLC), and a broad skill set spanning various technologies.</h3>
-<h5 align="center">Proficient in guiding teams through successful project completion, I excel in both front-end and back-end development, delivering robust web and mobile applications. With a knack for problem-solving, collaboration, and effective communication, I drive project success while maintaining technical excellence. My journey in tech has been about embracing challenges and leading teams towards impactful solutions in an ever-evolving digital landscape.</h5>
+<p align="center">Proficient in guiding teams through successful project completion, I excel in both front-end and back-end development, delivering robust web and mobile applications. With a knack for problem-solving, collaboration, and effective communication, I drive project success while maintaining technical excellence. My journey in tech has been about embracing challenges and leading teams towards impactful solutions in an ever-evolving digital landscape.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrixk" alt="harrixk" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/harrix_khan" target="blank"><img src="https://img.shields.io/twitter/follow/harrix_khan?logo=twitter&style=for-the-badge" alt="harrix_khan" /></a> </p>
 
-- 💬 Ask me about **AngularTS, TypeScript, JavaScript, Java, XML and Firebase**
+- 💬 Ask me about **AngularTS, TypeScript, JavaScript, AWS, XML and Firebase**
 
 - 📫 How to reach me **harrixkhan5515@gmail.com**
 
