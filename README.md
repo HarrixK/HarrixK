@@ -1,69 +1,57 @@
-<h1 align="center">Hi 👋, I'm Harris Khan</h1>
-<h3 align="center">Full Stack Developer & AI/ML Engineer | 6+ Years Experience</h3>
+# 👋 Hi, I’m Harris Khan  
+
+🚀 **Full-Stack Developer | AI & Voice Tech Enthusiast | Problem Solver**  
+
+I build scalable, production-ready applications that solve real-world problems.  
+From **enterprise platforms** to **AI-driven solutions**, my focus is on writing clean, efficient code and delivering results that make an impact.  
+
+---
+
+## 🏆 Recent Highlights  
+- ✅ Built a **Voice AI sales agent platform** using **FastAPI, WebRTC, and LLMs** (voice + SMS + WhatsApp + web integration).  
+- ✅ Contributed to **Google-funded project** improving cloud-native infrastructure.  
+- ✅ Delivered a **FinTech CRM & appointment system** for **Vermont State Bank**, integrating scheduling + compliance workflows.  
+- ✅ Developed **staff augmentation portal** automating team hiring, NDA signing, and payments.  
+- ✅ Created **AI chatbot "ComCat"** with **React, Node.js, MongoDB, AWS** for scalable user management.  
+
+💡 My projects don’t just run — they **scale, integrate, and create business impact**.  
+
+---
+
+## 🛠 Tech Stack  
 
 <p align="center">
-Delivering Excellence Across Global Markets 🌍 | Building Scalable Web Apps & AI-Driven Solutions 🚀
+  <img src="https://skillicons.dev/icons?i=ts,js,python,angular,react,nextjs,nodejs,express,fastapi,mongodb,aws,git,docker,postgresql,mysql,html,css,scss,tailwind" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I'm a results-driven **Full Stack Developer** and **AI/ML Engineer** with over **6 years of experience** creating high-performance applications and **voice AI solutions** for clients worldwide.  
+## 📊 GitHub at a Glance  
 
-I’ve built everything from **FinTech platforms for Vermont State Bank** to **AI-powered CRM systems for HVAC companies**, and even contributed to **Google/Turing AI’s Gemini project** by fine-tuning LLMs using RLHF.  
-
-I focus on **end-to-end project delivery** — from sleek frontends to scalable backends, AI integrations, and real-time communication systems.  
-
----
-
-### 🚀 Recent Success Stories
-- ✨ **Google/Turing AI Project** – Fine-tuned LLMs using RLHF to enhance **Gemini** performance.  
-- 💳 **FinTech Applications** – Built secure, scalable solutions for **Vermont State Bank**.  
-- 🏢 **AI-Powered CRM** – Created a full HVAC management system with **ChatGPT + HumeInference**.  
-- 🛒 **Multi-Store Management Platform** – Centralized dashboard boosting operational efficiency.  
-- 🎙 **Voice AI Solutions** – Real-time conversational agents using **LiveKit, Hume (EVI), Cartesia**, and **WebSockets**.  
-
----
-
-### 🛠️ Tech Stack
-
-#### **Frontend**
-- ⚛️ React.js | Next.js | Angular  
-- 🎨 TypeScript, JavaScript, Tailwind, SCSS  
-- 📲 Modern UI/UX, Figma/XD to Code  
-
-#### **Backend & Cloud**
-- 🐍 Python (FastAPI, Flask), Node.js  
-- ☁️ AWS (DynamoDB, S3, Cognito, Lambda), Firebase  
-- 🗄 PostgreSQL | MongoDB | Supabase  
-
-#### **AI/Voice Agents**
-- 🤖 LLM Fine-tuning (RLHF, Prompt Engineering)  
-- 🗣 HumeInference (EVI) | Cartesia TTS | LiveKit Agents  
-- 🔌 STT → LLM → TTS Pipelines with WebSockets  
-- 📊 Model Optimization & Performance Debugging  
-
----
-
-### 🌟 Key Differentiators
-- ✅ **Proven Track Record** – Delivered for **Google, Vermont State Bank, Sumitomo Mitsui Banking**  
-- 🔄 **Full Lifecycle Ownership** – From concept → deployment → optimization  
-- 🧑‍🤝‍🧑 **Team Leadership** – Mentored junior developers & led multi-functional teams  
-- 🛡 **Quality First** – Rigorous testing & debugging for scalable, reliable systems  
-
----
-
-### 📫 Let’s Connect
-<p align="left">
-<a href="https://twitter.com/harrix_khan" target="blank"><img src="https://img.shields.io/twitter/follow/harrix_khan?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-<a href="https://linkedin.com/in/harisullahkhan" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="mailto:harrixkhan5515@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harrixk&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harrixk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarrisKhanDev&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarrisKhanDev&theme=tokyonight" height="180px"/>
 </p>
+
+---
+
+## 📌 Featured Projects  
+
+- 🔹 [**Customized Appointment Calendar App**](#) — Angular, Flask, AWS, CRM integration  
+- 🔹 [**Staff Augmentation Portal**](#) — Hiring automation platform  
+- 🔹 [**ComCat AI Chatbot**](#) — AI-powered conversational bot  
+- 🔹 [**VoiceCake AI Sales Agents**](#) — Multi-channel voice + SMS agents  
+
+---
+
+## 📬 Let’s Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harriskhan"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:harris.khan.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/HarrisKhanDev"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
+</p>  
+
+---
+
+⚡ *“Code is not just about solving problems, it’s about creating scalable solutions that last.”*  
