@@ -40,9 +40,8 @@ From **enterprise platforms** to **AI-driven solutions**, my focus is on writing
 ## 📬 Let’s Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harriskhan"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:harris.khan.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/HarrisKhanDev"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/harisullahkhan"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:harisullahkhan99.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>  
 
 ---
