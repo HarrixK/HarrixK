@@ -47,7 +47,7 @@
 
 ## Background
 
-- **5+ years** full-stack, from early-stage startups to Fortune 500 banks
+- **6+ years** full-stack, from early-stage startups to Fortune 500 banks
 - **Led teams** of 6+ developers through complete SDLC across 8+ production applications
 - **RLHF experience** fine-tuning Google Gemini at Turing
 - **Regulated environments** — fintech compliance, banking, stablecoin operations
